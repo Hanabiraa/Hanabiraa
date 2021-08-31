@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Vitaly - aka Hanabiraa 👋
+
+
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Hanabiraa/ds-way?logoColor=red&style=flat-square">
 
 <!--
 **Hanabiraa/Hanabiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
