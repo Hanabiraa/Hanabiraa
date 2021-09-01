@@ -1,7 +1,11 @@
 ### Hi there, I'm Vitaly - aka Hanabiraa 👋
 
+[![](https://raw.githubusercontent.com/Hanabiraa/Hanabiraa/master/social/intro.gif)]()<!-- make template like this: https://dev.to/satvikchachra/how-to-add-an-awesome-readme-to-your-github-profile-361n -->
 
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Hanabiraa/ds-way?logoColor=red&style=flat-square">
+
+
+
+<!-- <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Hanabiraa/ds-way?logoColor=red&style=flat-square"> -->
 
 <!--
 **Hanabiraa/Hanabiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
