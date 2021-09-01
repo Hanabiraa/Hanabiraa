@@ -42,6 +42,7 @@ I'm an **Undergrad Student at 🏛[the Polytechnic University of Peter the Great
 - [ ] Get a job like ML-engineer
 
 🌱 All my study u can find here: **[ds-way](https://github.com/Hanabiraa/ds-way)** 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Hanabiraa/ds-way?color=green&label=commits%20to%20the%20repo&logoColor=green&style=for-the-badge)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Hanabiraa/ds-way?color=green&label=commits%20to%20ds-way&logoColor=green&style=for-the-badge)
 
 ***
