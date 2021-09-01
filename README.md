@@ -7,11 +7,26 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://discordapp.com/users/734106915302408244/" alt="discord profile"><img width="32px" src="assets/discord.svg"></a>
+  <a href="https://discordapp.com/users/734106915302408244/"><img width="32px" alt="discord profile" title="discord profile" src="assets/discord.svg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/Hanabira1"><img width="32px" alt="telegram profile" title="DenverCoder1 Dev.to" src="assets/telegram.svg"></a>
+  <a href="https://t.me/Hanabira1"><img width="32px" alt="telegram profile" title="telegram profile" src="assets/telegram.svg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://vk.com/hogsik"><img width="32px" alt="Ko-fi" title="vk profile" src="assets/vk.svg"/></a>
+  <a href="https://vk.com/hogsik"><img width="32px" alt="vk profile" title="vk profile" src="assets/vk.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:workflow.elec@gmail.com"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="assets/gmail.svg"/></a>
+  <a href="mailto:workflow.elec@gmail.com"><img width="32px" alt="contact me by email" title="contact me by email" src="assets/gmail.svg"/></a>
 </p>
+
+<p align="center">
+  <a href="https://leetcode.com/Hogs/"><img width="32px" alt="leetcode profile", titile="leetcode profile" src="assets/leetcode.svg"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.codewars.com/users/Seikoo"><img width="32px" alt="codewars profile" title="codewars profile" src="assets/codewars.svg"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.kaggle.com/hanabira"><img width="32px" alt="kaggle profile" title="kaggle profile" src="assets/kaggle.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
+
+<!-- Bio part -->
+### A little about me...  <img src="assets/octocat-anime.gif" width="50"> 
+
+I'm an **Undergrad Student at 🎓[the Polytechnic University of Peter the Great](https://english.spbstu.ru/)** pursuing CSE. I'm a **tech enthusiast 💻** who is passionate about machine learning. I am currently studying data science to dive further into machine learning. <br/><br/>
