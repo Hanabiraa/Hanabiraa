@@ -5,14 +5,7 @@
 
 
 <!-- Social icons section -->
-
-<style type="text/css">
-.social {
-  fill:#445532;
-}
-</style>
-
-<p align="center" class="social">
+<p align="center" class="social" style="fill: #ff6c00">
   <a href="https://discordapp.com/users/734106915302408244/" alt="discord profile"><img width="32px" src="assets/discord.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/Hanabira1"><img width="32px" alt="telegram profile" title="DenverCoder1 Dev.to" src="assets/telegram.svg"></a>
