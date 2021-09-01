@@ -39,7 +39,7 @@ I'm an **Undergrad Student at 🎓 [the Polytechnic University of Peter the Grea
 - [ ] 📖 Understand linear algebra, probability theory, statistics and mathematical analysis
 - [ ] 🤖 Dive in TensorFlow, PyTorch
 - [ ] 🌿 Create a pet-project on the subject of financial forecasting or smth else
-- [ ] 🍀 Get a job like ML-engineer
+- [ ] 🐊 Get a job like ML-engineer
 
 🌱 All my study u can find here: **[ds-way](https://github.com/Hanabiraa/ds-way)** 
 
