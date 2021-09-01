@@ -25,8 +25,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
+***
 
 <!-- Bio part -->
-### A little about me...  <img src="assets/octocat-anime.gif" width="50"> 
+### A little about me...
 
-I'm an **Undergrad Student at 🎓[the Polytechnic University of Peter the Great](https://english.spbstu.ru/)** pursuing CSE. I'm a **tech enthusiast 💻** who is passionate about machine learning. I am currently studying data science to dive further into machine learning. <br/><br/>
+I'm an **Undergrad Student at 🎓[the Polytechnic University of Peter the Great](https://english.spbstu.ru/)** pursuing CSE. I'm a **tech enthusiast 💻** who is passionate about machine learning. I am currently studying data science to dive further into machine learning.  <img src="assets/octocat-anime.gif" width="400">  <br/><br/> 
