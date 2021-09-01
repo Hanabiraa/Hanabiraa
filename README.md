@@ -41,4 +41,7 @@ I'm an **Undergrad Student at 🏛[the Polytechnic University of Peter the Great
 - [ ] Create a pet-project on the subject of financial forecasting or smth else
 - [ ] Get a job like ML-engineer
 
-🌱 All my study u can find -> **[ds-way](https://github.com/Hanabiraa/ds-way)** ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Hanabiraa/ds-way?color=green&label=commits%20to%20the%20repo&logoColor=green&style=flat-square)
+🌱 All my study u can find here: **[ds-way](https://github.com/Hanabiraa/ds-way)** 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Hanabiraa/ds-way?color=green&label=commits%20to%20the%20repo&logoColor=green&style=for-the-badge)
+
+***
