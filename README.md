@@ -36,7 +36,7 @@ I'm an **Undergrad Student at 🎓 [the Polytechnic University of Peter the Grea
 ## What I do now 🌱
 
 - [x] **🐉** Learning Python and basic algorithms and data structures
-- [ ] **🐼** Learn Pandas, Numpy, Scipy, Matplotlib, Seaborn
+- [x] **🐼** Learn Pandas, Numpy, Scipy, Matplotlib, Seaborn
 - [ ] **📖** Understand linear algebra, probability theory, statistics and mathematical analysis
 - [ ] **🤖** Dive in TensorFlow, PyTorch
 - [ ] **🌿** Create a pet-project on the subject of financial forecasting or smth else
