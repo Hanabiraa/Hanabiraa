@@ -21,28 +21,27 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.codewars.com/users/Seikoo"><img width="32px" alt="codewars profile" title="codewars profile" src="assets/codewars.svg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.kaggle.com/hanabira"><img width="32px" alt="kaggle profile" title="kaggle profile" src="assets/kaggle.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 ***
 <!-- Bio part -->
 ## Who am I 🌳
 
-I'm an **Undergrad Student at 🎓 [the Polytechnic University of Peter the Great](https://english.spbstu.ru/)** pursuing SWE (*software engineering*). <img src="assets/octocat-anime.gif" width="300" align=right> I'm a **tech enthusiast 💻** who is passionate about machine learning. I am currently studying data science to dive further into machine learning.<br/><br/>  
+I'm an **Undergrad Student at 🎓 [the Polytechnic University of Peter the Great](https://english.spbstu.ru/)** pursuing SWE (*software engineering*). <img src="assets/octocat-anime.gif" width="300" align=right> I'm a **tech enthusiast 💻** who is passionate about backend development. I mainly program in Python, but I want to learn Go in the future.<br/><br/>  
 
 <!-- My targets -->
 ## What I do now 🌱
 
 - [x] **🐉** Learning Python and basic algorithms and data structures
-- [x] **🐼** Learn Pandas, Numpy, Scipy, Matplotlib, Seaborn
-- [ ] **📖** Understand linear algebra, probability theory, statistics and mathematical analysis
-- [ ] **🤖** Dive in TensorFlow, PyTorch
-- [ ] **🌿** Create a pet-project on the subject of financial forecasting or smth else
-- [ ] **🐊** Get a job like ML-engineer
+- [ ] **📖** Learn SQLite, PostgreSQL, Redis
+- [ ] **🐳** Docker, Docker-compose, Docker-network
+- [ ] **🛡️** Learn unittest
+- [ ] **🐼** Learn asyncio, aiohttp
+- [ ] **🤖** Dive in Django, DRF
+- [ ] **🌿** Create a pet-project
+- [ ] **🐊** Get a job like Backend-developer
 
-🌱 All my study u can find here: **[ds-way](https://github.com/Hanabiraa/ds-way)** 
+🌱 All my study u can find here: **[backend-way](https://github.com/Hanabiraa/backend-way)** 
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Hanabiraa/ds-way?color=green&label=commits%20to%20ds-way&logoColor=green&style=for-the-badge)
-
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Hanabiraa/backend-way?color=green&label=COMMITS%20TO%20Backend-way&style=for-the-badge)
 ***
