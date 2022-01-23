@@ -11,7 +11,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/Hanabira1"><img width="32px" alt="telegram profile" title="telegram profile" src="assets/telegram.svg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://vk.com/hogsik"><img width="32px" alt="vk profile" title="vk profile" src="assets/vk.svg"/></a>
+  <a href="https://vk.com/hanabiraa"><img width="32px" alt="vk profile" title="vk profile" src="assets/vk.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:workflow.elec@gmail.com"><img width="32px" alt="contact me by email" title="contact me by email" src="assets/gmail.svg"/></a>
 </p>
@@ -19,7 +19,7 @@
 <p align="center">
   <a href="https://leetcode.com/Hogs/"><img width="32px" alt="leetcode profile", titile="leetcode profile" src="assets/leetcode.svg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.codewars.com/users/Seikoo"><img width="32px" alt="codewars profile" title="codewars profile" src="assets/codewars.svg"></a>
+  <a href="https://www.codewars.com/users/Hanabiraa"><img width="32px" alt="codewars profile" title="codewars profile" src="assets/codewars.svg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
