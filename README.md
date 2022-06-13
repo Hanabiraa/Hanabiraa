@@ -34,8 +34,8 @@ I'm an **Undergrad Student at 🎓 [the Polytechnic University of Peter the Grea
 
 - [x] **🐉** Learning Python and basic algorithms and data structures
 - [ ] **📖** Learn SQLite, PostgreSQL, Redis
-- [ ] **🐳** Docker, Docker-compose, Docker-network
-- [ ] **🛡️** Learn unittest
+- [x] **🐳** Docker, Docker-compose, Docker-network
+- [x] **🛡️** Learn unittest, pytest
 - [ ] **🐼** Learn asyncio, aiohttp
 - [ ] **🤖** Dive in Django, DRF
 - [ ] **🌿** Create a pet-project
