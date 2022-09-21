@@ -33,11 +33,10 @@ I'm an **Undergrad Student at 🎓 [the Polytechnic University of Peter the Grea
 ## What I do now 🌱
 
 - [x] **🐉** Learning Python and basic algorithms and data structures
-- [x] **📖** Learn SQLite, PostgreSQL, Redis
+- [x] **📖** Learn PostgreSQL
 - [x] **🐳** Docker, Docker-compose, Docker-network
 - [x] **🛡️** Learn unittest, pytest
-- [ ] **🐼** Learn asyncio, aiohttp
-- [ ] **🤖** Dive in Django, DRF or FastAPI
+- [ ] **🤖** Dive in Django & DRF
 - [x] **🌿** Create a pet-project
 - [ ] **🐊** Get a job like Backend-developer
 
