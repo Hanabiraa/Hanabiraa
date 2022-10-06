@@ -38,6 +38,7 @@ I'm an **Undergrad Student at 🎓 [the Polytechnic University of Peter the Grea
 - [x] **🛡️** Learn unittest, pytest
 - [ ] **🤖** Dive in Django & DRF
 - [ ] **🧬** Learn asyncio (optional aiohttp/celery)
+- [ ] **📖** Kafka
 - [x] **🌿** Create a pet-project
 - [ ] **🐊** Get a job like Backend-developer
 
