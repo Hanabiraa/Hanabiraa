@@ -33,12 +33,12 @@ I'm an **Undergrad Student at 🎓 [the Polytechnic University of Peter the Grea
 ## What I do now 🌱
 
 - [x] **🐉** Learning Python and basic algorithms and data structures
-- [x] **📖** Learn PostgreSQL
+- [x] **📖** Learn PostgreSQL, Reddis
 - [x] **🐳** Docker, Docker-compose, Docker-network
 - [x] **🛡️** Learn unittest, pytest
-- [ ] **🤖** Dive in Django & DRF
-- [ ] **🧬** Learn asyncio (optional aiohttp/celery)
-- [ ] **📖** Kafka
+- [x] **🤖** Dive in Django
+- [x] **🧬** Learn fastapi
+- [x] **📖** Celery
 - [x] **🌿** Create a pet-project
 - [ ] **🐊** Get a job like Backend-developer
 
