@@ -45,4 +45,8 @@ I'm an **Undergrad Student at 🎓 [the Polytechnic University of Peter the Grea
 🌱 All my study u can find here: **[backend-way](https://github.com/Hanabiraa/backend-way)** 
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Hanabiraa/backend-way?color=green&label=COMMITS%20TO%20Backend-way&style=for-the-badge)
+
+[![LeetCode user Hanabiraa](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FHanabiraa&logo=leetcode&logoColor=yellow)](https://leetcode.com/Hanabiraa/)
+
+![](https://www.codewars.com/users/Hanabiraa/badges/micro)
 ***
