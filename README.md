@@ -43,6 +43,7 @@ I'm an **Undergrad Student at 🎓 [the Polytechnic University of Peter the Grea
 - [ ] **🐊** Get a job like Backend-developer
 
 🌱 All my study u can find here: **[backend-way](https://github.com/Hanabiraa/backend-way)** 
+🌱 All my theoretical notes u can find here: **[my-obsidian-wiki](https://github.com/Hanabiraa/my-obsidian-wiki)** 
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Hanabiraa/backend-way?color=green&label=COMMITS%20TO%20Backend-way&style=for-the-badge)
 ***
