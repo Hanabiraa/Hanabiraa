@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://discordapp.com/users/734106915302408244/"><img width="32px" alt="discord profile" title="discord profile" src="assets/discord.svg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/Hanabira1"><img width="32px" alt="telegram profile" title="telegram profile" src="assets/telegram.svg"></a>
+  <a href="https://t.me/Hanabiraa"><img width="32px" alt="telegram profile" title="telegram profile" src="assets/telegram.svg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://vk.com/hanabiraa"><img width="32px" alt="vk profile" title="vk profile" src="assets/vk.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
