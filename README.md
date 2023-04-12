@@ -40,7 +40,7 @@ I'm an **Undergrad Student at 🎓 [the Polytechnic University of Peter the Grea
 - [x] **🧬** Learn fastapi
 - [x] **📖** Celery
 - [x] **🌿** Create a pet-project
-- [ ] **🐊** Get a job like Backend-developer
+- [x] **🐊** Get a job like Backend-developer
 
 🌱 All my study u can find here: **[backend-way](https://github.com/Hanabiraa/backend-way)** 
 
