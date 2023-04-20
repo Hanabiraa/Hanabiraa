@@ -33,7 +33,7 @@ I'm an **Undergrad Student at 🎓 [the Polytechnic University of Peter the Grea
 ## What I do now 🌱
 
 - [x] **🐉** Learning Python and basic algorithms and data structures
-- [x] **📖** Learn PostgreSQL, Reddis
+- [x] **📖** Learn PostgreSQL, Redis
 - [x] **🐳** Docker, Docker-compose, Docker-network
 - [x] **🛡️** Learn unittest, pytest
 - [x] **🤖** Dive in Django
