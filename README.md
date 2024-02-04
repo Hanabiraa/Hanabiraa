@@ -27,24 +27,24 @@
 <!-- Bio part -->
 ## Who am I 🌳
 
-I'm an **Undergrad Student at 🎓 [the Polytechnic University of Peter the Great](https://english.spbstu.ru/)** pursuing SWE (*software engineering*). <img src="assets/octocat-anime.gif" width="300" align=right> I'm a **tech enthusiast 💻** who is passionate about backend development. I mainly program in Python, but I want to learn Go in the future.<br/><br/>  
+I graduated from the Bachelor's program 🎓 of [the Polytechnic University of Peter the Great](https://english.spbstu.ru/)** with a degree in SWE (Software Engineering). I'm a tech enthusiast 💻 who sometimes makes unix rice as a hobby. I'm currently working as a python middle developer.<br/><br/>  
 
 <!-- My targets -->
 ## What I do now 🌱
 
-- [x] **🐉** Learning Python and basic algorithms and data structures
-- [x] **📖** Learn PostgreSQL, Redis
-- [x] **🐳** Docker, Docker-compose, Docker-network
-- [x] **🛡️** Learn unittest, pytest
-- [x] **🤖** Dive in Django
-- [x] **🧬** Learn fastapi
-- [x] **📖** Celery
-- [x] **🌿** Create a pet-project
-- [x] **🐊** Get a job like Backend-developer
+- [x] **🐉** Get a job like junior Backend-developer
+- [x] **📖** advance to middle level
+- [x] **🐊** Become a mentor for interns
+- [ ] **🐳** Improve knowledge in building architectural software design
+- [ ] **🛡️** complete the LeetCode to 100 easy, 100 medium and 50 difficult tasks
+- [ ] **🤖** Take part in a startup
+- [ ] **🧬** Come up with your own useful pet project and use it in everyday life
+- [ ] **📖** Learn Golang and develop your own mini-backend
+- [ ] **🌿** Create a pet-project
 
-🌱 All my study u can find here: **[backend-way](https://github.com/Hanabiraa/backend-way)** 
+🌱 My training notes when I was preparing to become a junior developer can be found here: **[backend-way](https://github.com/Hanabiraa/backend-way)** 
 
-🌱 All my theoretical notes u can find here: **[my-obsidian-wiki](https://github.com/Hanabiraa/my-obsidian-wiki)** 
+🌱 Now I summarize all my knowledge in Obsidian: **[my-obsidian-wiki](https://github.com/Hanabiraa/my-obsidian-wiki)** 
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Hanabiraa/backend-way?color=green&label=COMMITS%20TO%20Backend-way&style=for-the-badge)
 ***
