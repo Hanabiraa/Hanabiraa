@@ -40,7 +40,6 @@ I graduated from the Bachelor's program 🎓 of [the Polytechnic University of P
 - [ ] **🤖** Take part in a startup
 - [ ] **🧬** Come up with your own useful pet project and use it in everyday life
 - [ ] **📖** Learn Golang and develop your own mini-backend
-- [ ] **🌿** Create a pet-project
 
 🌱 My training notes when I was preparing to become a junior developer can be found here: **[backend-way](https://github.com/Hanabiraa/backend-way)** 
 
