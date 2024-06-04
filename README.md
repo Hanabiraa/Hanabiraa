@@ -27,7 +27,7 @@
 <!-- Bio part -->
 ## Who am I 🌳
 
-I graduated from the Bachelor's program 🎓 of [the Polytechnic University of Peter the Great](https://english.spbstu.ru/)** <img src="assets/octocat-anime.gif" width="300" align=right> with a degree in SWE (Software Engineering). I'm a tech enthusiast 💻 who sometimes makes unix rice as a hobby. I'm currently working as a python middle developer.<br/><br/>  
+I graduated from the Bachelor's program 🎓 of [the Polytechnic University of Peter the Great](https://english.spbstu.ru/) <img src="assets/octocat-anime.gif" width="300" align=right> with a degree in SWE (Software Engineering). I'm a tech enthusiast 💻 who sometimes makes unix rice as a hobby. I'm currently working as a python middle developer.<br/><br/>  
 
 <!-- My targets -->
 ## What I do now 🌱
