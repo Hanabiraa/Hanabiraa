@@ -39,7 +39,7 @@ I graduated from the Bachelor's program 🎓 of [the Polytechnic University of P
 - [ ] **🛡️** complete the LeetCode to 100 easy, 100 medium and 50 difficult tasks
 - [ ] **🤖** Take part in a startup
 - [ ] **🧬** Come up with your own useful pet project and use it in everyday life
-- [ ] **📖** Learn Golang and develop your own mini-backend
+- [ ] **📖** Learn Golang
 
 🌱 My training notes when I was preparing to become a junior developer can be found here: **[backend-way](https://github.com/Hanabiraa/backend-way)** 
 
