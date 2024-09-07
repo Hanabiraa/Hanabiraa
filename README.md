@@ -41,6 +41,4 @@ I graduated from the Bachelor's program 🎓 of [the Polytechnic University of P
 - [ ] **📖** Learn Golang
 
 🌱 Now I summarize all my knowledge in Obsidian: **[my-obsidian-wiki](https://github.com/Hanabiraa/my-obsidian-wiki)** 
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Hanabiraa/backend-way?color=green&label=COMMITS%20TO%20Backend-way&style=for-the-badge)
 ***
