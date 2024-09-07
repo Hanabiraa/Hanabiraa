@@ -40,8 +40,6 @@ I graduated from the Bachelor's program 🎓 of [the Polytechnic University of P
 - [ ] **🤖** Take part in a startup
 - [ ] **📖** Learn Golang
 
-🌱 My training notes when I was preparing to become a junior developer can be found here: **[backend-way](https://github.com/Hanabiraa/backend-way)** 
-
 🌱 Now I summarize all my knowledge in Obsidian: **[my-obsidian-wiki](https://github.com/Hanabiraa/my-obsidian-wiki)** 
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Hanabiraa/backend-way?color=green&label=COMMITS%20TO%20Backend-way&style=for-the-badge)
