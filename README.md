@@ -32,7 +32,7 @@ I graduated from the Bachelor's program 🎓 of [the Polytechnic University of P
 <!-- My targets -->
 ## What I do now 🌱
 
-- [] **🐉** survive
+- [ ] **🐉** survive
 
 🌱 Now I summarize all my knowledge in Obsidian: **[my-obsidian-wiki](https://github.com/Hanabiraa/my-obsidian-wiki)** 
 ***
