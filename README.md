@@ -32,13 +32,7 @@ I graduated from the Bachelor's program 🎓 of [the Polytechnic University of P
 <!-- My targets -->
 ## What I do now 🌱
 
-- [x] **🐉** Get a job like junior Backend-developer
-- [x] **📖** advance to middle level
-- [x] **🐊** Become a mentor for interns
-- [ ] **🐳** Improve knowledge in building architectural software design
-- [ ] **🛡️** complete the LeetCode to 100 easy, 100 medium and 50 difficult tasks
-- [ ] **🤖** Take part in a startup
-- [ ] **📖** Learn Golang
+- [] **🐉** survive
 
 🌱 Now I summarize all my knowledge in Obsidian: **[my-obsidian-wiki](https://github.com/Hanabiraa/my-obsidian-wiki)** 
 ***
